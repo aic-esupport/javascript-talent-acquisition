@@ -1,6 +1,6 @@
 # Check your skill
 
-## Your gual is build CI/CD release for generic AAB (Android application) without signing and publishing to Store.
+## Your goal is build CI/CD release for generic AAB (Android application) without signing and publishing to Store.
 
 Don't worry - this is not a rocket science!
 
